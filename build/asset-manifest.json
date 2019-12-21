@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-qr-scanner/static/css/main.be459afd.chunk.css",
+    "main.js": "/react-qr-scanner/static/js/main.e29e8009.chunk.js",
+    "main.js.map": "/react-qr-scanner/static/js/main.e29e8009.chunk.js.map",
+    "runtime-main.js": "/react-qr-scanner/static/js/runtime-main.be1dd602.js",
+    "runtime-main.js.map": "/react-qr-scanner/static/js/runtime-main.be1dd602.js.map",
+    "static/js/2.d6365ebc.chunk.js": "/react-qr-scanner/static/js/2.d6365ebc.chunk.js",
+    "static/js/2.d6365ebc.chunk.js.map": "/react-qr-scanner/static/js/2.d6365ebc.chunk.js.map",
+    "index.html": "/react-qr-scanner/index.html",
+    "precache-manifest.7592dfe56f205d7ce754dc0608b20328.js": "/react-qr-scanner/precache-manifest.7592dfe56f205d7ce754dc0608b20328.js",
+    "service-worker.js": "/react-qr-scanner/service-worker.js",
+    "static/css/main.be459afd.chunk.css.map": "/react-qr-scanner/static/css/main.be459afd.chunk.css.map",
+    "static/js/2.d6365ebc.chunk.js.LICENSE": "/react-qr-scanner/static/js/2.d6365ebc.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be1dd602.js",
+    "static/js/2.d6365ebc.chunk.js",
+    "static/css/main.be459afd.chunk.css",
+    "static/js/main.e29e8009.chunk.js"
+  ]
+}

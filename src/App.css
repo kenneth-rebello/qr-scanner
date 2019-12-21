@@ -1,0 +1,33 @@
+.home{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    height: 350px;
+    width: 350px;
+}
+
+.title{
+    margin:0;
+    padding:0
+}
+
+.btn{
+    color: white;
+    margin: auto;
+}
+
+a{
+    color: white;
+}
+
+a:active{
+    color: gold;
+}
+
+a:visited{
+    color: white;
+}
