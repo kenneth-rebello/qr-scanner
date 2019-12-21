@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://kenneth-rebello.github.io/react-qr-scanner",
+  "homepage": "https://kenneth-rebello.github.io/qr-scanner",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
