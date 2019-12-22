@@ -1,13 +1,17 @@
 .home{
     display: grid;
     justify-items: center;
-    align-items: center;
+    align-items: top;
     height: 100vh;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 .container{
     height: 350px;
     width: 350px;
+    margin: 0;
+    padding: 0;
 }
 
 .title{
@@ -30,4 +34,26 @@ a:active{
 
 a:visited{
     color: white;
+}
+
+.input-box{
+    width: 80%;
+    justify-self: center;
+    align-self: top;
+}
+
+input::placeholder{
+    color: darkseagreen;
+}
+
+.btn-box{
+    display: grid;
+    grid-template-columns: 1fr;
+    height: fit-content;
+    margin: 0;
+}
+
+.btn-box .btn{
+    width: 20rem;
+    margin: 1%;
 }
